@@ -514,7 +514,10 @@
   }
   
   .project-card .btn-text:is(:hover, :focus-visible) { gap: 10px; }
-  
+  /* .card-banner img{
+    height: 500px;
+  }
+   */
   
   
   
